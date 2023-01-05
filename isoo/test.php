@@ -1,0 +1,1 @@
+<img src="/isoo/thumb/phpThumb.php?src=/isoo/images/frame_border.png" id="frame_pic"/>
